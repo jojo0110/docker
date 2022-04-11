@@ -1,0 +1,5 @@
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\publish\AddDevEnv.exe
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\publish\AddDevEnv.dll
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\publish\AddDevEnv.deps.json
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\publish\AddDevEnv.runtimeconfig.json
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\publish\AddDevEnv.pdb

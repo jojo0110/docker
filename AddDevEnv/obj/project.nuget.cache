@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sc+2eMhknNoUIhejen1LElFCGr+YwOA4q1xN6dEgiuR0/lrErBK9lldIt0YLZyr30NVEtRKFXGfQ9+OZzSBE5A==",
+  "dgSpecHash": "r7JrkVe4m3+r31lGJrXrqPP3CjyWIS6mC0TCLKHN8GXLoDMjBfy7yQ0b2/nr6wNnlGjfcixROiDA7aHv/GNUDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\kuanh\\source\\Docker\\AddDevEnv\\docker\\AddDevEnv\\AddDevEnv.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kuanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
