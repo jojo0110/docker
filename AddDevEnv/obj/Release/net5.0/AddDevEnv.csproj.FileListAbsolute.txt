@@ -1,0 +1,16 @@
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.exe
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.deps.json
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.runtimeconfig.json
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.runtimeconfig.dev.json
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.dll
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\bin\Release\net5.0\AddDevEnv.pdb
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.csproj.AssemblyReference.cache
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.AssemblyInfoInputs.cache
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.AssemblyInfo.cs
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.csproj.CoreCompileInputs.cache
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.dll
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\refint\AddDevEnv.dll
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.pdb
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\AddDevEnv.genruntimeconfig.cache
+C:\Users\kuanh\source\Docker\AddDevEnv\docker\AddDevEnv\obj\Release\net5.0\ref\AddDevEnv.dll
